@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "staticExpensesMonthly": [
+    {
+      "name": "netflix",
+      "category": "internet",
+      "debit_date": 1,
+      "price": 15.99,
+      "debited": false
+    },
+    {
+      "name": "innogy",
+      "category": "isp",
+      "debit_date": 15,
+      "price": 35.34,
+      "debited": false
+    },
+    {
+      "name": "seat",
+      "category": "car",
+      "debit_date": 7,
+      "price": 400,
+      "debited": false
+    }
+  ]
+}
